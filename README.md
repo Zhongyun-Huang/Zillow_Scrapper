@@ -5,7 +5,7 @@ Zillow_Scrapper is a tool which allows users to input a zipcode, and then get a 
 ## Example
 
 ### Input 
-zipcode: 02148
+zipcode: 01375
 
 ### Output:
 295000.0 price
@@ -14,6 +14,10 @@ zipcode: 02148
 1413.0 size
 30 Meadowbrook Dr, Sunderland, MA address
 208.775654636 price_per_sqft
+
+...
+...
+...
 
 1200.0 price
 1.0 bed
