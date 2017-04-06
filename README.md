@@ -1,34 +1,24 @@
-# Zillow_Scrapper
-Zillow_Scrapper is a tool which allows users to input a zipcode, and then get a list of available properties in the zipcode area, with information including the address, price, no.of bedrooms, no. of bathrooms and size. 
+# Zillow_by_Zipcode
+* Zillow_by_Zipcode is a tool built for users to extract property information from a zipcode area, and make wise decsions on which property to rent or to buy. 
+* It also enables users to compare affordability and community information between zipcodes. They can also decide on whether to rent or to buy properties from an area
+* This tool can also be used to study social-economic status across the country by area
 
 
-## Example
+## Input
+Zipcodes
 
-### Input 
-zipcode: 01375
+## What to get from a single zipcode
+1. Average house price
+2. Average no. of bedrooms
+3. Average house size
+4. Average price per square feet
+5. Average price per bedroom
+6. Average rent/price
+7. A list of properties on rent
+8. A list of properties on sale
 
-### Output:
-295000.0 price
-3.0 bed
-2.0 bath
-1413.0 size
-30 Meadowbrook Dr, Sunderland, MA address
-208.775654636 price_per_sqft
+## What to get from more than one zipcode
+Plots comparing stats of two zipcode areas
 
-...
-...
-...
 
-1200.0 price
-1.0 bed
-1.0 bath
-800.0 size
-313 Amherst Rd, Sunderland, MA address
-1.5 price_per_sqft
 
-649000.0 price
-4.0 bed
-5.0 bath
-4000.0 size
-145 Plumtree Rd, Sunderland, MA address
-162.25 price_per_sqft
