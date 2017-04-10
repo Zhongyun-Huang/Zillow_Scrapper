@@ -5,20 +5,24 @@
 
 
 ## Input
-Zipcodes
+Two zipcodes
 
-## What to get from a single zipcode
-1. Average house price
-2. Average no. of bedrooms
-3. Average house size
-4. Average price per square feet
-5. Average price per bedroom
-6. Average rent/price
-7. A list of properties on rent
-8. A list of properties on sale
+## Output
+* A table to compare between two zipcodes
 
-## What to get from more than one zipcode
-Plots comparing stats of two zipcode areas
+|               | 02148         | 02420  |
+| ------------- |:-------------:| ------:|
+| mean_size     | 884.11 | 2583.12 |
+| mean_bed      | 1.79   |3.63|
+| mean_price_per_sqft | 478.54    | 731.86 |
+| mean_price_per_bd | 41598.1  |  219055 |
+| mean_rent | 11949   | 3189 |
+| rent_vs_buy | 0.03  |  0 |
+
+
+## Usage
+* Go to terminal, run "python zipcode.py"
+* Follow instructions on the screen: "Please enter your two zipcodes for comparison (separated by a comma): "
 
 
 
