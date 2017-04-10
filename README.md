@@ -10,7 +10,7 @@ Two zipcodes
 ## Output
 * A table to compare between two zipcodes
 
-|               | 02148         | 02420  |
+|  Zipcodes     | 02148         | 02420  |
 | ------------- |:-------------:| ------:|
 | mean_size     | 884.11 | 2583.12 |
 | mean_bed      | 1.79   |3.63|
