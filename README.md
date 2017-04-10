@@ -8,7 +8,7 @@
 Two zipcodes
 
 ## Output
-* A table to compare between two zipcodes
+* A table to compare between two zipcodes 
 
 |  Zipcodes     | 02148         | 02420  |
 | ------------- |:-------------:| ------:|
@@ -23,6 +23,9 @@ Two zipcodes
 ## Usage
 * Go to terminal, run "python zipcode.py"
 * Follow instructions on the screen: "Please enter your two zipcodes for comparison (separated by a comma): "
+* The scrape.py will be called by the zipcode.py to extract real-time property information on Zillow. 
+
+
 
 
 
