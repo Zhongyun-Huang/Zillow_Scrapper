@@ -1,5 +1,5 @@
 # Zillow_by_Zipcode
-* Zillow_by_Zipcode is a tool built for users to extract property information from a zipcode area, and make wise decsions on which property to rent or to buy. 
+* Zillow_by_Zipcode is a tool built for users to extract property information from a zipcode area, and make wise decisions on which property to rent or to buy. 
 * It also enables users to compare affordability and community information between zipcodes. They can also decide on whether to rent or to buy properties from an area
 * This tool can also be used to study social-economic status across the country by area
 
